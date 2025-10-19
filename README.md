@@ -38,6 +38,11 @@ This project predicts the **top 5 most likely classes** for a given image using 
 
 ---
 
+## Example Output
+
+![Image Classification Example](https://github.com/Ayush2049/IMAGE-CLASSIFICATION-top-5-predictions-/blob/48c4739a476c23089411c1b2a3a8e0dc4630c879/project-instances/example.jpg)
+
+---
 ## 3. Prerequisites & Dependencies
 
 The project likely relies on the following libraries:
