@@ -1,6 +1,6 @@
 # 🧠 Image Classification — Concept & Working
 
-This project predicts the **top 5 most likely classes** for a given image using a deep learning model. Here’s a breakdown of the concept, working, and the flow:
+The model predicts the **top 5 most likely classes** for a given image using a deep learning model. Here’s a breakdown of the concept, working, and the flow:
 
 ---
 
